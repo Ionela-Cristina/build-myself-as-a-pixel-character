@@ -9,6 +9,9 @@ face {
 eyes {
   fill: blue;
 }
+eyebrows {
+  fill: brown;
+}
 
 mouth {
   fill: red;
