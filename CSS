@@ -1,16 +1,22 @@
+#ionela {
+  fill: green;
+}
+
 face {
     fill: pink;
 } 
-    
 
-hairstyle {
-    fill: rgba(231, 241, 19, 1);
+eyes {
+  fill: blue;
 }
 
-
-topdesign {
-    fill: rgba(241, 19, 118, 1);
+hairstyle {
+    fill: yellow;
 } 
+shoes {
+    fill: black;
+} 
+
 
 .background {
     /* paste your cool css background code under here */
