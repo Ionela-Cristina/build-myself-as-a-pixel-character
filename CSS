@@ -10,6 +10,10 @@ eyes {
   fill: blue;
 }
 
+mouth {
+  fill: red;
+}
+
 hairstyle {
     fill: yellow;
 } 
