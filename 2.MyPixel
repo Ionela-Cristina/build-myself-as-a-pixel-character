@@ -1,8 +1,8 @@
-<character> <!--character element opening tag -->
+<character id="ionela"> <!--character element opening tag -->
    <face /> <!--self closing tag-->
    <hairstyle type="8"/>
    <eyebrows />
-   <eyes type="2"/>
+   <eyes type="3"/>
    <!--<glasses />--><!--Decomment to see the glasess-->
    <mouth />
    <torso />
@@ -25,6 +25,6 @@ I need to add parts to it in between the tags-->
                     <hairstyle type="1, 2, 3...etc" />
                     <topdesign type="1, 2, 3...etc"/>
                     If the type="1, 2, 3...etc" doesn't work then doesn't exist-->
-                    
+
 <!--I need to use CSS style to make it colored hence, 
                  add a file called <wathewer.CSS> in the project-->
